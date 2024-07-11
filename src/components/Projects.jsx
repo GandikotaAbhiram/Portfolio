@@ -9,7 +9,7 @@ export default function Projects() {
 			<div className="grid grid-cols-1 md:grid-cols-2 gap-10 w-full">
 				<div className="p-10 bg-white border-2 border-emerald-500 rounded-lg shadow transition hover:shadow-xl hover:scale-[102%]">
 					<h2 className="font-bold text-3xl text-center mb-4">
-						<a className="hover:underline" href="#">
+						<a className="hover:underline" href="https://gandikotaabhiram.github.io/Portfolio/" target="_blank">
 							Portfolio using ReactJs
 						</a>
 					</h2>
