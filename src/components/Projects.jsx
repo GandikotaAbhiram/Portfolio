@@ -1,4 +1,3 @@
-//projects.js
 export default function Projects() {
 	return (
 		<section id="projects"
@@ -29,7 +28,7 @@ export default function Projects() {
 				</div>
 				<div className="p-10 bg-white border-2 border-emerald-500 rounded-lg shadow transition hover:shadow-xl hover:scale-[102%]">
 					<h2 className="font-bold text-3xl text-center mb-4">
-						<a className="hover:underline" href="#">
+						<a className="hover:underline" href="https://gandikotaabhiram.github.io/Responsive-Hotel-Booking-System/">
 							Responsive Hotel Booking Project based on HTML, CSS, Bootstrap
 						</a>
 					</h2>

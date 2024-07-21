@@ -1,7 +1,6 @@
 import LinkedIn from "./linkedin.png";
 import GitHub from "./github.png";
 import Gmail from "./gmail.png";
-import Resume from "./GANDIKOTA ABHIRAM.pdf"
 
 
 export default function Contact() {
@@ -39,7 +38,7 @@ export default function Contact() {
 				</div>
 			</div>
 			<div>
-				<h4 class="font-bold text-2xl text-gray text-center">You can <a href={Resume} target="_blank" style={{textDecoration:"underline blue", margin:"0px auto"}}>download my resume</a>.</h4>
+				<h4 class="font-bold text-2xl text-gray text-center">You can <a href="https://drive.google.com/file/d/1ClrtEBbh-WkkYVvGxYiI7ibo8xwBtKRy/view?usp=drive_link" target="_blank" style={{textDecoration:"underline blue", margin:"0px auto"}}>download my resume</a>.</h4>
 			</div>
 		</section>
 	);
