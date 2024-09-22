@@ -1,6 +1,6 @@
 export default function Skills() {
 	const skills = {
-		"Programming Languages": ["C", "C++", "Python", "Java"],
+		"Programming Languages": ["C", "C++", "Python"],
 		"Web Development": ["HTML", "CSS", "JavaScript", "ReactJs", "NodeJs", "MongoDB", "SQL", "Bootstrap"],
 		"Version Control": ["Git", "GitHub"]
 	};

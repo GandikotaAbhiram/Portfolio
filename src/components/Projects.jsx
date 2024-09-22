@@ -36,6 +36,16 @@ export default function Projects() {
 						This project is a responsive hotel booking project built using HTML, CSS, and Bootstrap.
 					</p>
 				</div>
+				<div className="p-10 bg-white border-2 border-emerald-500 rounded-lg shadow transition hover:shadow-xl hover:scale-[102%]">
+					<h2 className="font-bold text-3xl text-center mb-4">
+						<a className="hover:underline" href="https://gandikotaabhiram.github.io/Hospital-Management-System/">
+							Hospital Management System
+						</a>
+					</h2>
+					<p className="text-center">
+						Created patient bookings and appointments and adding doctor details and updating them.
+					</p>
+				</div>
 			</div>
 		</section>
 	);

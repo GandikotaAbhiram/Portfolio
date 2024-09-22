@@ -38,7 +38,7 @@ export default function Contact() {
 				</div>
 			</div>
 			<div>
-				<h4 class="font-bold text-2xl text-gray text-center">You can <a href="https://drive.google.com/file/d/1ClrtEBbh-WkkYVvGxYiI7ibo8xwBtKRy/view?usp=drive_link" target="_blank" style={{textDecoration:"underline blue", margin:"0px auto"}}>download my resume</a>.</h4>
+				<h4 class="font-bold text-2xl text-gray text-center">You can <a href="https://drive.google.com/file/d/1fwJpYpcuopGT5oimqVwjsAhMjsEzdDTS/view" target="_blank" style={{textDecoration:"underline blue", margin:"0px auto"}}>download my resume</a>.</h4>
 			</div>
 		</section>
 	);
